@@ -1,9 +1,9 @@
-# Sanity Clean Content Studio
+# Description
 
-Congratulations, you have now installed the Sanity Content Studio, an open source real-time content editing environment connected to the Sanity backend.
+This is a demo application created by following this lovely tutorial: https://www.youtube.com/watch?v=1RHDhtbqo94
+You can find the original authors project here: https://github.com/adrianhajdin/project_shareme_social_media
 
-Now you can do the following things:
+The project uses react & tailwinds for its frontend ui & sanity crm to host the backend.
+# Deployment
 
-- [Read “getting started” in the docs](https://www.sanity.io/docs/introduction/getting-started?utm_source=readme)
-- [Join the community Slack](https://slack.sanity.io/?utm_source=readme)
-- [Extend and build plugins](https://www.sanity.io/docs/content-studio/extending?utm_source=readme)
+see project live: https://tutorial-shareme.netlify.app/
